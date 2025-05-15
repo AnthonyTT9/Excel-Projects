@@ -1,2 +1,2 @@
 # Excel-Projects
-Projects that involved using Excel 
+This Excel project is an interactive dashboard designed to manage and analyze student information, academic performance, and college acceptance metrics.
